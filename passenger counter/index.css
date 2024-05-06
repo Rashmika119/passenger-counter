@@ -1,0 +1,56 @@
+body{
+background-image:url("images/street.jpg");
+image-size:cover;
+text-align:center;
+font-weight:bold;
+color:black;
+font-size:50px;
+
+}
+
+h1{
+text-shadow:0 0 3px orange;
+margin:10px 0 5px 0;
+}
+
+h2{
+margin:0px;}
+
+button{
+padding:10px 0px 10px 0px;
+width:250px;
+display:block;
+justify-content:center;
+margin:0 auto 0 auto;
+color:white;
+border-radius:10px;
+border-bottom:5px;
+font-weight:bold;
+font-family:Famous,Italic,Retro,Groovy;}
+
+#increment-btn{
+background:darkred;
+margin-bottom:10px;}
+
+#save-btn{
+background:darkgreen;
+}
+#increment-btn:hover{
+width:260px;
+height:45px;
+}
+
+#save-btn:hover{
+width:260px;
+height:45px;
+}
+
+.box{
+background:white;
+border:3px solid darkorange;
+width:800px;
+height:500px;
+display:block;
+margin:50px auto 0 auto;
+border-radius:10px;
+}
